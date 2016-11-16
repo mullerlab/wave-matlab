@@ -37,7 +37,7 @@ Citing **wave**
 
 If you publish work using or mentioning **wave**, I would greatly appreciate if you would cite our paper ([bibtex](http://cnl.salk.edu/~lmuller/papers/P12/bibtex_entry.bib)):
 
-Muller L, Piantoni G, Koller D, Cash SS, Halgren E, Sejnowski TJ (2016) Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night. In submission.
+Muller L, Piantoni G, Koller D, Cash SS, Halgren E, Sejnowski TJ (2016) Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night. *eLife* 5: e17267.
 
 Developer
 ========
