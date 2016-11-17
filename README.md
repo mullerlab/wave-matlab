@@ -1,6 +1,6 @@
 # **wave**: analysis of spatiotemporal dynamics in noisy multisite data #
 
-**wave** is a MATLAB toolbox for analysis and visualization of noisy multisite data. Originally developed for multichannel recordings in neuroscience, where both optical imaging and multielectrode data are increasingly common, the functions in **wave** are general and will be applicable to multisite data in biology, ecology, climatology, and experimental physics. Installation should be easy and straightforward via the *pathtool* utility, and with accessible and standard data structures, the toolbox be easy to integrate into existing MATLAB analysis code.
+**wave** is a MATLAB toolbox for analysis and visualization of noisy multisite data. Originally developed for multichannel recordings in neuroscience, where both optical imaging and multielectrode data are increasingly common, the functions in **wave** are general and will be applicable to multisite data in biology, ecology, climatology, and experimental physics. Installation should be easy and straightforward via the *pathtool* utility, and with accessible and standard data structures, the toolbox will be easy to integrate into existing MATLAB analysis code.
 
 Install
 ========
@@ -24,7 +24,9 @@ The user would then be ready to detect waves at specified timepoints in the data
 Dependencies
 ========
 
-CircStat by Philipp Berens (http://bethgelab.org/software/circstat), export_fig by Yair Altman (http://github.com/altmany/export_fig)
+CircStat by Philipp Berens (http://bethgelab.org/software/circstat)
+
+export_fig by Yair Altman (http://github.com/altmany/export_fig)
 
 Testing
 ========
