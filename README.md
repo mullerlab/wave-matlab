@@ -24,8 +24,7 @@ The user would then be ready to detect waves at specified timepoints in the data
 Dependencies
 ========
 
-CircStat by Philipp Berens (http://bethgelab.org/software/circstat)
-export_fig by Yair Altman (http://github.com/altmany/export_fig)
+CircStat by Philipp Berens (http://bethgelab.org/software/circstat), export_fig by Yair Altman (http://github.com/altmany/export_fig)
 
 Testing
 ========
@@ -35,9 +34,9 @@ Tested on MATLAB R2014b (8.4.0.150421) under OSX
 Citing **wave**
 ========
 
-If you publish work using or mentioning **wave**, I would greatly appreciate if you would cite our paper ([bibtex](http://cnl.salk.edu/~lmuller/papers/P12/bibtex_entry.bib)):
+If you publish work using or mentioning **wave**, I would greatly appreciate if you would cite our paper ([bibtex](http://cnl.salk.edu/~lmuller/papers/P12.bib)):
 
-Muller L, Piantoni G, Koller D, Cash SS, Halgren E, Sejnowski TJ (2016) Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night. *eLife* 5: e17267.
+[Muller L, Piantoni G, Koller D, Cash SS, Halgren E, Sejnowski TJ (2016) Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night. *eLife* 5: e17267.](https://elifesciences.org/content/5/e17267)
 
 Developer
 ========
