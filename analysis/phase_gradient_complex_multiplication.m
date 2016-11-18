@@ -10,13 +10,13 @@ function [pm,pd,dx,dy] = ...
 %
 %                   and V_{x,y} = A_{x,y} exp( i \Phi{x,y} )
 %
-%                   \nabla{Phi} = dPhi/dx + dPhi/dy
+%                   \nabla{Phi} = ∂Phi/∂x + ∂Phi/∂y
 %
-%                   dPhi/dx ≈ \delta Phi_x = angle( V_{x,y} V*_{x+1,y} )
+%                   ∂Phi/∂x ≈ \delta Phi_x = angle( V_{x,y} V*_{x+1,y} )
 %
 %                       and
 %
-%                   dPhi/dy ≈ \delta Phi_y = angle( V_{x,y} V*_{x,y+1} )
+%                   ∂Phi/∂y ≈ \delta Phi_y = angle( V_{x,y} V*_{x,y+1} )
 %
 %                   where * indicates complex conjugate.
 %
