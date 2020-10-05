@@ -10,7 +10,7 @@ Run *pathtool*, or write the **wave** directory directly into the MATLAB path wi
 
 Consider a datacube $X_{x,y,t}$, where the first two dimensions index space and the third indexes time (with sampling frequency *Fs*): 
 
-![datacube schematic](https://mullerlab.ca/assets/img/gp-demo/datacube.png | width=50)
+![datacube schematic](https://mullerlab.ca/assets/img/gp-demo/datacube.png)
 
 A sample analysis workflow may be:
 
