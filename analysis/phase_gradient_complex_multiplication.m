@@ -39,7 +39,7 @@ function [pm,pd,dx,dy] = ...
 assert( ndims(xph) >= 2, 'matrix/datacube input required' );
 
 % parse inputs
-if nargin < 2, signIF = 1;, else signIF = varargin{1}; end
+if nargin < 3, signIF = 1;, else signIF = varargin{1}; end
 
 % init
 pm = zeros( size(xph) ); pd = zeros( size(xph) );
